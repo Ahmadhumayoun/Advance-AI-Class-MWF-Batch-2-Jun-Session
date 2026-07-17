@@ -1,1 +1,2 @@
-print("laksdj")
+def printAhmad():
+    print("Ahmad is here")
